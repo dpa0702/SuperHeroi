@@ -1,0 +1,10 @@
+/Users/demetriosarghirachis/Projects/SuperHeroi/SuperHeroi/bin/Debug/netcoreapp2.2/SuperHeroi.deps.json
+/Users/demetriosarghirachis/Projects/SuperHeroi/SuperHeroi/bin/Debug/netcoreapp2.2/SuperHeroi.runtimeconfig.json
+/Users/demetriosarghirachis/Projects/SuperHeroi/SuperHeroi/bin/Debug/netcoreapp2.2/SuperHeroi.runtimeconfig.dev.json
+/Users/demetriosarghirachis/Projects/SuperHeroi/SuperHeroi/bin/Debug/netcoreapp2.2/SuperHeroi.dll
+/Users/demetriosarghirachis/Projects/SuperHeroi/SuperHeroi/bin/Debug/netcoreapp2.2/SuperHeroi.pdb
+/Users/demetriosarghirachis/Projects/SuperHeroi/SuperHeroi/obj/Debug/netcoreapp2.2/SuperHeroi.csprojAssemblyReference.cache
+/Users/demetriosarghirachis/Projects/SuperHeroi/SuperHeroi/obj/Debug/netcoreapp2.2/SuperHeroi.AssemblyInfoInputs.cache
+/Users/demetriosarghirachis/Projects/SuperHeroi/SuperHeroi/obj/Debug/netcoreapp2.2/SuperHeroi.AssemblyInfo.cs
+/Users/demetriosarghirachis/Projects/SuperHeroi/SuperHeroi/obj/Debug/netcoreapp2.2/SuperHeroi.dll
+/Users/demetriosarghirachis/Projects/SuperHeroi/SuperHeroi/obj/Debug/netcoreapp2.2/SuperHeroi.pdb
